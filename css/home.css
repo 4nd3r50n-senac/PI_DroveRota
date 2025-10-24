@@ -24,3 +24,8 @@ p {
 body {
     background-color: rgb(150, 89, 186);
 }
+
+footer {
+    font-size: 0.75rem;
+    color: white;
+}
