@@ -19,10 +19,11 @@ p {
     /*color:aqua;*/
     font-size: 1rem;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /*color: greenyellow;*/
 }
 
 body {
-    background-color: rgb(150, 89, 186);
+    background-color: rgb(152, 99, 184);
 }
 
 footer {
